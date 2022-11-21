@@ -5,6 +5,7 @@
 1. Like Airbnb but ...
 1. like trends.now.sh but with comments
 2. A dashboard for next Myki buses
+3. An AI contract checker for real estate purchases.
 
 
 ## New Tools Learned
