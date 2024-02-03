@@ -19,3 +19,9 @@
 1. cometlabs
 1. config file repo
 2. 
+
+
+https://github.com/dzoba/gptrpg
+Gpt multi agent for system analysis
+Outputs rich pictures
+Feed in inputs from system for various agents and systems. 
